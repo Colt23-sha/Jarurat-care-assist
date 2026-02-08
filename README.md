@@ -37,9 +37,10 @@ Jarurat Care can use this application to:
 
 This concept can later be extended with real AI models, databases, and admin dashboards.
 
-## Live Demo
-https://app.netlify.com/projects/mellow-florentine-7d6ced/deploys/6988b186341b7c08c5071af1
+## Live Demo 
+App link - https://mellow-florentine-7d6cad.netlify.app
+Project Overview Link - https://app.netlify.com/projects/mellow-florentine-7d6ced/overview
 
 ## Author
-Shashank Dev  
+Shashank Dev Singh
 BCA AI&DS Student | Aspiring Full Stack Developer
